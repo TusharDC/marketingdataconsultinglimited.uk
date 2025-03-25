@@ -33,7 +33,7 @@ const Footer = () => {
                                         className="w-48"
                                     /> */}
                                     <p className="text-4xl font-bold">
-                                        Marketing Afterdark Ltd
+                                        Marketing Data Consulting Limited
                                     </p>
                                 </div>
                             </Link>
