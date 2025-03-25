@@ -154,7 +154,7 @@ const Footer = () => {
                                         </span>
                                     </li>
 
-                                    <Link href="tel:+919910190071">
+                                    <Link href="tel:+447418343383">
                                         <li className="flex items-center pt-3 space-x-2 group">
                                             <IoMdCall
                                                 size={28}
