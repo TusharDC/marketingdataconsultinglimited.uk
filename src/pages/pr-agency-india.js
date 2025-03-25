@@ -306,7 +306,7 @@ We are playing a significant role by Generating awareness, Brand mentions, and B
         />
         <link
           rel="canonical"
-          href=" https://www.marketingdataconsultinglimited.co.ukpr-services-in-UK"
+          href=" https://www.marketingdataconsultinglimited.ukpr-services-in-UK"
         />
         <meta
           property="og:title"
@@ -319,11 +319,11 @@ We are playing a significant role by Generating awareness, Brand mentions, and B
         />
         <meta
           property="og:url"
-          content=" https://www.marketingdataconsultinglimited.co.ukpr-services-in-UK"
+          content=" https://www.marketingdataconsultinglimited.ukpr-services-in-UK"
         />
         <meta
           property="og:image"
-          content=" https://www.marketingdataconsultinglimited.co.ukassets/images/service/svg/pr.png"
+          content=" https://www.marketingdataconsultinglimited.ukassets/images/service/svg/pr.png"
         />
         <meta name="robots" content="index,follow" />
 
@@ -331,8 +331,8 @@ We are playing a significant role by Generating awareness, Brand mentions, and B
           {`{
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "@id": " https://www.marketingdataconsultinglimited.co.ukpr-agency-#webpage",
-  "url": " https://www.marketingdataconsultinglimited.co.ukpr-agency-",
+  "@id": " https://www.marketingdataconsultinglimited.ukpr-agency-#webpage",
+  "url": " https://www.marketingdataconsultinglimited.ukpr-agency-",
   "inLanguage": "en - US",
   "name": "PR Agency",
   "description": "marketingdataconsultinglimited Provides the Best PR Services in UK.
@@ -344,14 +344,14 @@ We are playing a significant role by Generating awareness, Brand mentions, and B
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ],
   "mentions": [
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ]}`}
         </script>

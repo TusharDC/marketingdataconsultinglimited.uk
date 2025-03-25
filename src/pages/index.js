@@ -43,7 +43,7 @@ const index = () => {
         />
         <link
           rel="canonical"
-          href=" https://www.marketingdataconsultinglimited.co.uk/"
+          href=" https://www.marketingdataconsultinglimited.uk/"
         />
 
         <meta
@@ -56,11 +56,11 @@ const index = () => {
         />
         <meta
           property="og:url"
-          content=" https://www.marketingdataconsultinglimited.co.uk/"
+          content=" https://www.marketingdataconsultinglimited.uk/"
         />
         <meta
           property="og:image"
-          content=" https://www.marketingdataconsultinglimited.co.ukassets/images/logoack.png"
+          content=" https://www.marketingdataconsultinglimited.ukassets/images/logoack.png"
         />
         <meta name="robots" content="index,follow" />
 
@@ -69,8 +69,8 @@ const index = () => {
   "@type": "Organization",
   "name": "marketingdataconsultinglimited",
   "alternateName": "Advertising Agency",
-  "url": " https://www.marketingdataconsultinglimited.co.uk/",
-  "logo": " https://www.marketingdataconsultinglimited.co.ukassets/images/logoack.png",
+  "url": " https://www.marketingdataconsultinglimited.uk/",
+  "logo": " https://www.marketingdataconsultinglimited.ukassets/images/logoack.png",
   "sameAs": [
     "https://m.facebook.com/people/marketingdataconsultinglimited- -Pvt-Ltd/100076925016084/",
     "https://www.instagram.com/marketingdataconsultinglimited/",
@@ -83,9 +83,9 @@ const index = () => {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "marketingdataconsultinglimited",
-  "image": " https://www.marketingdataconsultinglimited.co.ukassets/images/banner/banner-one.png",
+  "image": " https://www.marketingdataconsultinglimited.ukassets/images/banner/banner-one.png",
   "@id": "",
-  "url": " https://www.marketingdataconsultinglimited.co.uk/",
+  "url": " https://www.marketingdataconsultinglimited.uk/",
   "telephone": "+44 7418 343383",
   "address": {
     "@type": "PostalAddress",
@@ -97,7 +97,7 @@ const index = () => {
   "department": {
     "@type": "LocalBusiness",
     "name": "marketingdataconsultinglimited",
-    "image": " https://www.marketingdataconsultinglimited.co.ukassets/images/banner/banner-one.png",
+    "image": " https://www.marketingdataconsultinglimited.ukassets/images/banner/banner-one.png",
     "telephone": "+44 7418 343383"
   }}`}
         </script>

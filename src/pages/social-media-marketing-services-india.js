@@ -309,7 +309,7 @@ const SmmAgency = () => {
         />
         <link
           rel="canonical"
-          href=" https://www.marketingdataconsultinglimited.co.uksocial-media-marketing-company-in-UK"
+          href=" https://www.marketingdataconsultinglimited.uksocial-media-marketing-company-in-UK"
         />
         <meta
           property="og:title"
@@ -321,11 +321,11 @@ const SmmAgency = () => {
         />
         <meta
           property="og:url"
-          content=" https://www.marketingdataconsultinglimited.co.uksocial-media-marketing-company-in-UK"
+          content=" https://www.marketingdataconsultinglimited.uksocial-media-marketing-company-in-UK"
         />
         <meta
           property="og:image"
-          content=" https://www.marketingdataconsultinglimited.co.ukassets/images/service/svg/med.png"
+          content=" https://www.marketingdataconsultinglimited.ukassets/images/service/svg/med.png"
         />
         <meta name="robots" content="index,follow" />
 
@@ -333,8 +333,8 @@ const SmmAgency = () => {
           {`{
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "@id": " https://www.marketingdataconsultinglimited.co.uksocial-media-marketing-company-#webpage",
-  "url": " https://www.marketingdataconsultinglimited.co.uksocial-media-marketing-company-",
+  "@id": " https://www.marketingdataconsultinglimited.uksocial-media-marketing-company-#webpage",
+  "url": " https://www.marketingdataconsultinglimited.uksocial-media-marketing-company-",
   "inLanguage": "en - US",
   "name": "Social Media Marketing",
   "description": "marketingdataconsultinglimited: best social media marketing company in UK! we are  specializes in strategic solutions to boost your online presence and drive impactful results.",
@@ -345,14 +345,14 @@ const SmmAgency = () => {
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ],
   "mentions": [
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ]}`}
         </script>

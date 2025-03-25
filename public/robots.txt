@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Disallow: /cgi-bin/
-Sitemap:  https://www.marketingdataconsultinglimited.co.uk/sitemap.xml
+Sitemap:  https://www.marketingdataconsultinglimited.uk/sitemap.xml

@@ -287,7 +287,7 @@ const WebsiteDevelopment = () => {
         />
         <link
           rel="canonical"
-          href=" https://www.marketingdataconsultinglimited.co.ukwebsite-development-company-in-UK"
+          href=" https://www.marketingdataconsultinglimited.ukwebsite-development-company-in-UK"
         />
 
         <meta
@@ -300,11 +300,11 @@ const WebsiteDevelopment = () => {
         />
         <meta
           property="og:url"
-          content=" https://www.marketingdataconsultinglimited.co.ukwebsite-development-company-in-UK"
+          content=" https://www.marketingdataconsultinglimited.ukwebsite-development-company-in-UK"
         />
         <meta
           property="og:image"
-          content=" https://www.marketingdataconsultinglimited.co.ukassets/images/service/svg/web.png"
+          content=" https://www.marketingdataconsultinglimited.ukassets/images/service/svg/web.png"
         />
         <meta name="robots" content="index,follow" />
 
@@ -312,8 +312,8 @@ const WebsiteDevelopment = () => {
           {`{
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "@id": " https://www.marketingdataconsultinglimited.co.ukwebsite-development-company-#webpage",
-  "url": " https://www.marketingdataconsultinglimited.co.ukwebsite-development-company-",
+  "@id": " https://www.marketingdataconsultinglimited.ukwebsite-development-company-#webpage",
+  "url": " https://www.marketingdataconsultinglimited.ukwebsite-development-company-",
   "inLanguage": "en - US",
   "name": "Website Development",
   "description": "With marketingdataconsultinglimited, you will have access to a wide range of powerful tools and functionalities tailored to meet the unique needs of web development companies in UK. From seamless project management to collaborative coding features, our platform empowers your team to work together efficiently and effectively.",
@@ -324,14 +324,14 @@ const WebsiteDevelopment = () => {
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ],
   "mentions": [
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ]}`}
         </script>

@@ -307,7 +307,7 @@ const SemAgency = () => {
         />
         <link
           rel="canonical"
-          href=" https://www.marketingdataconsultinglimited.co.ukinfluencer-marketing-services-UK"
+          href=" https://www.marketingdataconsultinglimited.ukinfluencer-marketing-services-UK"
         />
         <meta
           property="og:title"
@@ -319,19 +319,19 @@ const SemAgency = () => {
         />
         <meta
           property="og:url"
-          content=" https://www.marketingdataconsultinglimited.co.uksem-agency-in-UK"
+          content=" https://www.marketingdataconsultinglimited.uksem-agency-in-UK"
         />
         <meta
           property="og:image"
-          content=" https://www.marketingdataconsultinglimited.co.ukassets/images/service/svg/eng.png"
+          content=" https://www.marketingdataconsultinglimited.ukassets/images/service/svg/eng.png"
         />
         <meta name="robots" content="index,follow" />
         <script type="application/ld+json">
           {`{
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "@id": " https://www.marketingdataconsultinglimited.co.uksem-company-#webpage",
-  "url": " https://www.marketingdataconsultinglimited.co.uksem-company-",
+  "@id": " https://www.marketingdataconsultinglimited.uksem-company-#webpage",
+  "url": " https://www.marketingdataconsultinglimited.uksem-company-",
   "inLanguage": "en - US",
   "name": "Search Engine Marketing",
   "description": "Looking for the best Search Engine Marketing agency in UK to help you achieve optimum results and improve your ROI? Look no further than marketingdataconsultinglimited",
@@ -342,14 +342,14 @@ const SemAgency = () => {
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ],
   "mentions": [
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ]}`}
         </script>

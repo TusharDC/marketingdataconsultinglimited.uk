@@ -307,7 +307,7 @@ const MediaBuying = () => {
         />
         <link
           rel="canonical"
-          href=" https://www.marketingdataconsultinglimited.co.ukmedia-buying-company-in-UK"
+          href=" https://www.marketingdataconsultinglimited.ukmedia-buying-company-in-UK"
         />
         <meta
           property="og:title"
@@ -319,11 +319,11 @@ const MediaBuying = () => {
         />
         <meta
           property="og:url"
-          content=" https://www.marketingdataconsultinglimited.co.ukmedia-buying-company-in-UK"
+          content=" https://www.marketingdataconsultinglimited.ukmedia-buying-company-in-UK"
         />
         <meta
           property="og:image"
-          content=" https://www.marketingdataconsultinglimited.co.ukassets/images/service/svg/buy.png"
+          content=" https://www.marketingdataconsultinglimited.ukassets/images/service/svg/buy.png"
         />
         <meta name="robots" content="index,follow" />
 
@@ -331,8 +331,8 @@ const MediaBuying = () => {
           {`{
   "@context": "http://schema.org",
   "@type": "WebPage",
-  "@id": " https://www.marketingdataconsultinglimited.co.ukmedia-buying-company-#webpage",
-  "url": " https://www.marketingdataconsultinglimited.co.ukmedia-buying-company-",
+  "@id": " https://www.marketingdataconsultinglimited.ukmedia-buying-company-#webpage",
+  "url": " https://www.marketingdataconsultinglimited.ukmedia-buying-company-",
   "inLanguage": "en - US",
   "name": "Media Buying",
   "description": ""marketingdataconsultinglimited   is the best Media best-buying company in
@@ -344,14 +344,14 @@ UK that offers Communication Planning, Content Creation, and Technology.",
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ],
   "mentions": [
     {
       "@type": "Thing",
       "name": "marketingdataconsultinglimited",
-      "sameAs": " https://www.marketingdataconsultinglimited.co.uk/"
+      "sameAs": " https://www.marketingdataconsultinglimited.uk/"
     }
   ]}`}
         </script>
